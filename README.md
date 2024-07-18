@@ -8,24 +8,12 @@ Kategorilere Göre Notlar: Notlar "Work", "Personal", "Study" ve "Other" kategor
 Veri Tabanı: Firebase Firestore kullanılarak notlar güvenle saklanır.
 
 
-Kurulum
-Depoyu Klonlayın
+## Kullanılan Teknolojiler
 
-git clone https://github.com/YourGitHubUsername/NoteApp.git
-Android Studio ile Projeyi Açın
+- **Android Studio**: Android uygulama geliştirmek için kullanılan entegre geliştirme ortamı (IDE).
+- **Kotlin**: Android uygulamasında kullanılan resmi programlama dili.
+- **Firebase Authentication**: Kullanıcı kimlik doğrulama ve yönetimi için kullanılan Firebase servisi.
+- **Firebase Firestore**: Bulut tabanlı NoSQL veritabanı çözümü Firebase'in bir parçası olarak kullanılan, uygulama verilerinin depolanması ve senkronizasyonu için kullanılan servis.
+- **RecyclerView**: Liste tipi veri gösterimi için kullanılan Android bileşeni.
 
-Firebase Bağlantısını Kurun
-
-Firebase konsoluna gidin ve yeni bir proje oluşturun.
-Uygulamanızı Firebase'e ekleyin ve google-services.json dosyasını indirin.
-google-services.json dosyasını app dizinine yerleştirin.
-Gerekli Kütüphaneleri Yükleyin
-
-build.gradle dosyalarında gerekli Firebase ve diğer kütüphaneleri ekleyin.
-Kullanım
-Uygulamayı Android Studio üzerinden çalıştırın.
-Uygulama açıldığında, kullanıcı kaydı yapın veya mevcut bir kullanıcıyla giriş yapın.
-Notlarınızı ekleyin, kategorilere ayırın ve yönetin.
-Katkıda Bulunma
-Katkıda bulunmak isterseniz, lütfen önce bir konu açarak neyi değiştirmek istediğinizi belirtin. Değişikliklerinizi bir pull request ile gönderin.
 
