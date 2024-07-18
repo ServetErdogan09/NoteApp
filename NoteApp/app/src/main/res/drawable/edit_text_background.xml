@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!-- res/drawable/edit_text_background.xml -->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="@color/edit_text_background"/> <!-- Arka plan rengi -->
+        <corners android:radius="5dp"/> <!-- Köşeleri yuvarlama -->
+        <stroke android:width="1dp" android:color="@color/stroke_color"/> <!-- Kenarlık rengi ve genişliği -->
+    </shape>

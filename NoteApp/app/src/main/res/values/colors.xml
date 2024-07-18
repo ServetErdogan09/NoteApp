@@ -1,0 +1,10 @@
+<resources>
+    <color name="background_color">#FAFAFA</color> <!-- Açık gri arka plan -->
+    <color name="edit_text_background">#FFFFFF</color> <!-- Beyaz arka plan -->
+    <color name="button_background">#FF5722</color> <!-- Turuncu arka plan -->
+    <color name="button_background_dark">#E64A19</color> <!-- Koyu turuncu arka plan -->
+    <color name="button_text_color">#FFFFFF</color> <!-- Beyaz metin rengi -->
+    <color name="text_color">#212121</color> <!-- Koyu gri metin rengi -->
+    <color name="hint_color">#757575</color> <!-- Açık gri hint metni rengi -->
+    <color name="stroke_color">#BDBDBD</color> <!-- Kenarlık rengi -->
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SpinnerTextStyle">
+        <item name="android:textColor">#D50000</item> <!-- Metin rengini burada değiştirin -->
+        <item name="android:textSize">16sp</item> <!-- Metin büyüklüğünü burada değiştirin -->
+    </style>
+</resources>
